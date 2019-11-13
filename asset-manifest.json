@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/DrivingTours/static/css/main.e25a3d61.chunk.css",
+    "main.js": "/DrivingTours/static/js/main.e20922c9.chunk.js",
+    "main.js.map": "/DrivingTours/static/js/main.e20922c9.chunk.js.map",
+    "runtime-main.js": "/DrivingTours/static/js/runtime-main.ccde2431.js",
+    "runtime-main.js.map": "/DrivingTours/static/js/runtime-main.ccde2431.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/DrivingTours/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.aa0d9d3b.chunk.js": "/DrivingTours/static/js/2.aa0d9d3b.chunk.js",
+    "static/js/2.aa0d9d3b.chunk.js.map": "/DrivingTours/static/js/2.aa0d9d3b.chunk.js.map",
+    "index.html": "/DrivingTours/index.html",
+    "precache-manifest.7b41e6340366d373f7b3c1aa445e27f8.js": "/DrivingTours/precache-manifest.7b41e6340366d373f7b3c1aa445e27f8.js",
+    "service-worker.js": "/DrivingTours/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/DrivingTours/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.e25a3d61.chunk.css.map": "/DrivingTours/static/css/main.e25a3d61.chunk.css.map",
+    "static/media/dayone.jpg": "/DrivingTours/static/media/dayone.27b447d8.jpg",
+    "static/media/daythree.jpg": "/DrivingTours/static/media/daythree.341ec62c.jpg",
+    "static/media/daytwo.jpg": "/DrivingTours/static/media/daytwo.c515781b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccde2431.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.aa0d9d3b.chunk.js",
+    "static/css/main.e25a3d61.chunk.css",
+    "static/js/main.e20922c9.chunk.js"
+  ]
+}
