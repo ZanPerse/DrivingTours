@@ -5,7 +5,7 @@
     height: 56px;
     top:0;
     left:0;
-
+    z-indey:1;
 }
 .toolbar-logo{
    margin: 0 1rem; 
